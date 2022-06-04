@@ -1,12 +1,10 @@
 const CONFIG = {
-    titleWeb: "lời tỏ tình của tôi",
+    titleWeb: "lời tỏ tình của Huynh",
     introTitle: 'Nguyễn Bích Duyên',
-    introDesc: `Mai ngày anh sẽ nấu cơm
-         Tập kho cá vs thơm ))`,
+    introDesc: `Mai ngày anh sẽ nấu cơm. Tập kho cá vs thơm ))`,
     btnIntro: '^^HiHi^^',
     title: 'cứ trả lời  thật lòng nha🥰',
-    desc: 'chưa được sự cho phép mà đã tự ý thích em
-    Anh xin lõi nhé cong chúa ! ',
+    desc: 'chưa được sự cho phép mà đã tự ý .Anh xin lõi nhé cong chúa ! ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
